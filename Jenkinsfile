@@ -1,6 +1,6 @@
 pipeline {
 environment {
-registry = "aelhannaoui/job2tp4v2"
+registry = "aelhannaoui/job3tp4"
 registryCredential = 'dockerhubv'
 dockerImage = ''
 }
